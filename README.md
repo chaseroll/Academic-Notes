@@ -1,1 +1,1 @@
-The greatest notes ever created. :)
+The Greatest Notes Ever Created :)
