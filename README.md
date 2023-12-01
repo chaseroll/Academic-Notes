@@ -1,1 +1,3 @@
-Better Than Your Notes :)
+Contribution Guidlines:
+01. 
+02. 
