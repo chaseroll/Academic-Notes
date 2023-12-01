@@ -1,1 +1,1 @@
-Hello, welcome to the best notes you have ever seen! :)
+The greatest notes ever created. :)
