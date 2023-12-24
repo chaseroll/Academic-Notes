@@ -2,15 +2,14 @@
 02. Latex Suite
 03. Link Embed
 04. Minimal Theme + Minimal Theme Settings - Flexoki
-05. Templator
-06. TikzJax
-07. Settings Search
-08. Paste URL into selection
-09. Notes Dater
-10. Iconize 
-11. Dataview
-12. Smart Connections
-13. Plugin Update Tracker
-14. File Explorer Note Count
-15. Reading Time
-16. Obsidian Git
+05. TikzJax
+06. Settings Search
+07. Paste URL into selection
+08. Notes Dater
+09. Iconize 
+10. Dataview
+11. Smart Connections
+12. Plugin Update Tracker
+13. File Explorer Note Count
+14. Reading Time
+15. Obsidian Git

@@ -1,0 +1,5 @@
+---
+Subject: Mathematics
+---
+
+[[! Second Law]]
