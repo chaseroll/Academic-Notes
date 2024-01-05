@@ -1,3 +1,8 @@
+---
+tags:
+  - Utilities
+---
+
 01. Excalidraw
 02. Latex Suite
 03. Link Embed
@@ -13,3 +18,5 @@
 13. File Explorer Note Count
 14. Reading Time
 15. Obsidian Git
+16. color text
+17. highlightr

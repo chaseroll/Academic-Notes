@@ -1,3 +1,7 @@
+---
+tags:
+  - Remote
+---
 01. 
 ```embed
 title: "Chase Roll - Student - Art of Problem Solving | LinkedIn"
