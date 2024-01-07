@@ -16,5 +16,8 @@ tags:
 12. Plugin Update Tracker
 13. File Explorer Note Count
 14. Reading Time
-15. Obsidian Git
-16. highlightr
+15. Obsidian Git (Only I need this)
+16. Highlightr
+17. Calendar
+18. Execute Code
+19. Css editor (Use for mobile css integration)
