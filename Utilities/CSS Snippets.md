@@ -170,7 +170,7 @@ color: #808080;
 }
 ```
 
-04. highlight-theme.css
+04. custom-highlight.css
 ```css
 
 /* Custom highlight class for both edit and preview modes */
