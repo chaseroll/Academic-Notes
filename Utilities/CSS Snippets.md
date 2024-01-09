@@ -91,57 +91,9 @@ color: black;
 
 03. text-theme.css
 ```css
-/* Basic div-like callout as a platform for other styling */
+/* Change color of paragraph text to #808080 in preview mode */
 
-.callout[data-callout="div"] {
-
-position: relative;
-
-margin: 0;
-
-padding: 0.5em 0.5em 0.5em 1em;
-
-background: var(--background-primary);
-
-}
-
-  
-
-.callout[data-callout="div"]::before {
-
-content: '';
-
-position: absolute;
-
-left: 0;
-
-top: 30px;
-
-bottom: 30px;
-
-width: 2px;
-
-background: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
-
-border-radius: 0;
-
-}
-
-  
-
-.callout[data-callout="div"] > .callout-title {
-
-display: none;
-
-}
-
-  
-
-.callout[data-callout="div"] p,
-
-.callout[data-callout="div"] li,
-
-.callout[data-callout="div"] blockquote {
+.markdown-preview-view p {
 
 color: #808080;
 
@@ -149,23 +101,73 @@ color: #808080;
 
   
 
-/* Ensure LaTeX containers use default text color */
+/* Change color of all text in source (edit) mode to #808080, excluding headers */
 
-.callout[data-callout="div"] mjx-container {
+.markdown-source-view .cm-line:not(.cm-header):not(.cm-header-1):not(.cm-header-2):not(.cm-header-3):not(.cm-header-4):not(.cm-header-5):not(.cm-header-6) {
 
-color: var(--text-normal);
+color: #808080;
 
 }
 
   
 
-/* Specific callout types, if needed */
+/* Ensure that headers in source view have the default text color with higher specificity */
 
-.callout[data-callout="bug"],
+.markdown-source-view .cm-header,
 
-.callout[data-callout="default"] {
+.markdown-source-view .cm-header-1,
 
-color: #808080;
+.markdown-source-view .cm-header-2,
+
+.markdown-source-view .cm-header-3,
+
+.markdown-source-view .cm-header-4,
+
+.markdown-source-view .cm-header-5,
+
+.markdown-source-view .cm-header-6 {
+
+color: var(--text-normal) !important; /* Adding !important to enforce this rule */
+
+}
+
+  
+
+/* Revert color for LaTeX blocks to ensure they are not affected by the color change */
+
+.markdown-preview-view mjx-container,
+
+.markdown-source-view mjx-container {
+
+color: var(--text-normal) !important;
+
+}
+
+  
+
+/* Specific styles for headers within callouts in source view */
+
+.markdown-source-view .callout[data-callout="div"] .cm-header,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-1,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-2,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-3,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-4,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-5,
+
+.markdown-source-view .callout[data-callout="div"] .cm-header-6,
+
+.markdown-source-view .callout[data-callout="bug"] .cm-header,
+
+.markdown-source-view .callout[data-callout="bug"] .cm-header-1,
+
+/* ... repeat for other data-callout values ... */ {
+
+color: var(--text-normal) !important; /* Force header colors within callouts */
 
 }
 ```
@@ -231,5 +233,4 @@ font-size: 75%; /* Minimum font size */
 
 }
 
-}
 ```
