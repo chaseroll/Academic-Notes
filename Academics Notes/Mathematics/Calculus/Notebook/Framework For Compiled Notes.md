@@ -1,20 +1,17 @@
 Efficient ICL Note-Taking
 
-1. If possible, turn your physical textbook into your notebook.
+1. If possible, turn a physical textbook into your notebook.
 2. If no textbook is available, source and annotate digitally.
 3. In obsidian, source and timestamp all relevant anchor and supplementary material
-4. If in a lecture, selectively capture professors words on obsidian. Create and compile lecture notes
+4. If in a lecture, selectively capture professors words on obsidian. Create and compile lecture notes and use insights gained to further annotate textbooks
 
-When in class, just write down whatever is new not in the textbooks and use it to further annotate textbooks
 
 Practice Feynman Technique along with active recall.
 
 To start, memorize the following:
 If we seek merely swollen, slothful ease and ignoble peace, if we shrink from the hard contests where men must win at the hazard of their lives and at the risk of all they hold dear, then bolder and stronger peoples will pass us by, and will win for themselves the domination of the world.
 
-— Theodore Roosevelt —
-
-
+— Theodore Roosevelt 
 
 
 3.14159265358979323846264338327950288419716939937510582  
