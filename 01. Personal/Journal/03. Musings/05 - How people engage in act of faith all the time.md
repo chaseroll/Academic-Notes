@@ -1,0 +1,6 @@
+---
+tags:
+  - Journal
+  - Appologetics
+Date:
+---

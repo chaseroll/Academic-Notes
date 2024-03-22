@@ -1,0 +1,4 @@
+
+It's time you realize that you have something in you more powerful and miraculous than the things that affect you and make you dance like a puppet. In modern times, we seem to be blindly following feelings. You feel sad. Take some rest and wait until your happy. You feel tired. Wait for motivation to come back before taking action. The ancient Stoics would absolutely despise this behavior.
+
+They believed in an inner power that must always be used. The rational mind. Because reason is your most valuable asset, and you must use it to act in accordance with nature and truth, not as an animal that reacts without thought. Therefore, remember the stoic rule that to be governed by our passions is to be a slave. To be governed by reason is to be free.
