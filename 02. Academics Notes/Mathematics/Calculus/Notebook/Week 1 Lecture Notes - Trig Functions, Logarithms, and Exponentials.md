@@ -1,1 +1,0 @@
-![[Week 1 Lecture Notes - Trig Functions, Logarithms, and Exponentials-20240205120923831.webp]]![[Week 1 Lecture Notes - Trig Functions, Logarithms, and Exponentials-20240205121041725.webp]]
