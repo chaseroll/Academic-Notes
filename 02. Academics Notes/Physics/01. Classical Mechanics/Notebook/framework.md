@@ -4,7 +4,7 @@ tags:
   - Classical-Mechanics
   - Kinematics
 Related:
-  - "[[01. Time, Events, & Space]]"
+  - "[[01. Space, Position, Time, and the need for Measurements]]"
 Contents:
   - "[[#Introduction]]"
   - "[[#Velocity]]"
