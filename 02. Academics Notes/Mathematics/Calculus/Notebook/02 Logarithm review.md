@@ -5,3 +5,6 @@ WARNING: The teacher below says "mkay" every F*cking second
 
 [Change of base formula proof | Logarithms | Algebra II | Khan Academy - YouTube](https://www.youtube.com/watch?v=1reblXFlM6I)
 
+[Proof: Law of Adding Logarithms - YouTube](https://www.youtube.com/watch?v=6bkB92-1JHM&list=TLPQMjMwMzIwMjSZvVfK_mWM0A&index=5)
+
+[Proof: log a + log b = log ab | Logarithms | Algebra II | Khan Academy - YouTube](https://youtu.be/FP2arCfAfBY?si=aqwtajSZyiGBNgrp)
